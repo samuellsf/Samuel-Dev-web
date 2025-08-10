@@ -43,6 +43,26 @@ section {
     max-width: 900px;
 }
 
+.servicos {
+  position: fixed;
+  top: 80px;
+  right: -240px;     
+  width: 250px;
+  max-height: 70vh;
+  overflow-y: auto;
+  background: #222;
+  padding: 15px;
+  border-radius: 10px 0 0 10px;
+  box-shadow: 0 0 10px rgba(25, 118, 210, 0.6);
+  z-index: 1000;
+  transition: right 0.3s ease;
+  cursor: pointer;
+}
+
+.servicos:hover {
+  right: 0;          /* desliza para dentro da tela ao passar o mouse */
+}
+
 .servicos ul {
     list-style: none;
     padding: 0;
