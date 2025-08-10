@@ -2,16 +2,16 @@
     {
         "title": "Site para Pizzaria",
         "description": "Cardápio digital interativo com pedidos pelo WhatsApp.",
-        "image": "images/pizzaria.jpg"
+        "image": "img/pizzaria.png"
     },
     {
-        "title": "Hamburgueria Gourmet",
-        "description": "Página responsiva com fotos, promoções e integração social.",
-        "image": "images/hamburgueria.jpg"
+        "title": "Barber Brothers",
+        "description": "Página responsiva com fotos, promoções.",
+        "image": "img/Barbearia.png"
     },
     {
-        "title": "Site Institucional",
+        "title": "Site Gestão Escolar",
         "description": "Website profissional para empresas com área de contato.",
-        "image": "images/institucional.jpg"
+        "image": "img/Gestão Escolar.png"
     }
 ]
