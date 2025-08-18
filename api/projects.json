@@ -9,6 +9,24 @@
         "description": "Página responsiva com fotos, promoções.",
         "image": "img/Barbearia.png"
     },
+
+     {
+        "title": "Listagem Pokemon",
+        "description": "Página responsiva com fotos, tipo listagem de Desenhos.",
+        "image": "img/listagem-pokmon.png"
+    },
+
+    {
+       "title": "Projeto-One-Piece",
+        "description": "Página responsiva com fotos, tipo listagem de Desenhos.",
+        "image": "img/Projeto-one-piece.png"
+    },
+    
+
+     {  "title": "Listagem X-Men",
+        "description": "Página responsiva com fotos, tipo listagem de Desenhos.",
+        "image": "img/x-men.png"
+    },
     {
         "title": "Site Gestão Escolar",
         "description": "Website profissional para empresas com área de login e paginas.",

@@ -14,8 +14,8 @@ header {
 }
 
 .profile-img {
-    width: 120px;
-    height: 120px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 10px;
@@ -60,7 +60,7 @@ section {
 }
 
 .servicos:hover {
-  right: 0;          /* desliza para dentro da tela ao passar o mouse */
+  right: 0;         
 }
 
 .servicos ul {
@@ -107,4 +107,13 @@ footer {
     padding: 15px;
     font-size: 0.9rem;
     color: #aaa;
+}
+@media (max-width: 600px) {
+    .profile-img {
+        width: 200px;
+        height: 200px;
+        margin-bottom: 8px;
+    }
+
+   
 }
