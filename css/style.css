@@ -84,7 +84,7 @@ section {
 
 .projeto-card img {
     width: 100%;
-    border-radius: 6px;
+    border-radius: 16px;
 }
 
 .btn {
@@ -107,6 +107,7 @@ footer {
     font-size: 0.9rem;
     color: #aaa;
 }
+
 @media (max-width: 600px) {
     .profile-img {
         width: 200px;

@@ -1,35 +1,39 @@
 [
     {
-        "title": "Site para Pizzaria",
-        "description": "Cardápio digital interativo com pedidos pelo WhatsApp.",
+        "title": "Pizzaria Bella Massa",
+        "description": "Cardápio digital interativo com integração ao WhatsApp para pedidos rápidos. Layout atraente, ideal para delivery.",
         "image": "img/pizzaria.png"
     },
     {
-        "title": "Barber Brothers",
-        "description": "Página responsiva com fotos, promoções.",
+        "title": "Barbearia Barber Brothers",
+        "description": "Site moderno com galeria de cortes, promoções e agendamento fácil pelo celular. Design responsivo e direto.",
         "image": "img/Barbearia.png"
     },
-
-     {
-        "title": "Listagem Pokemon",
-        "description": "Página responsiva com fotos, tipo listagem de Desenhos.",
+    {
+        "title": "Catálogo Pokémon",
+        "description": "Página responsiva com listagem de personagens, filtros por tipo e visual interativo. Ideal como vitrine de produtos ou coleções.",
         "image": "img/listagem-pokmon.png"
     },
-
     {
-       "title": "Projeto-One-Piece",
-        "description": "Página responsiva com fotos, tipo listagem de Desenhos.",
+        "title": "Portal One Piece",
+        "description": "Listagem temática com imagens, episódios e descrição dos personagens. Ótimo para fãs ou como exemplo de catálogo visual.",
         "image": "img/Projeto-one-piece.png"
     },
-    
-
-     {  "title": "Listagem X-Men",
-        "description": "Página responsiva com fotos, tipo listagem de Desenhos.",
+    {
+        "title": "X-Men Universe",
+        "description": "Interface leve e responsiva com listagem de personagens e dados detalhados. Visual moderno com estilo HQ.",
         "image": "img/x-men.png"
     },
+
     {
-        "title": "Site Gestão Escolar",
-        "description": "Website profissional para empresas com área de login e paginas.",
+    "title": "Lojinha Virtual Express",
+    "description": "Mini e-commerce com exibição de produtos, botões para comprar direto pelo WhatsApp e links para Instagram e Facebook. Ideal para pequenos negócios.",
+    "image": "img/Lojinha Virtual.png"
+},
+
+    {
+        "title": "Sistema de Gestão Escolar",
+        "description": "Plataforma institucional com páginas protegidas por login, espaço para professores, alunos e comunicados escolares.",
         "image": "img/Gestão Escolar.png"
     }
 ]
