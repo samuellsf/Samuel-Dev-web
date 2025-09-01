@@ -10,6 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     <img src="${proj.image}" alt="${proj.title}">
                     <h3>${proj.title}</h3>
                     <p>${proj.description}</p>
+                    <a href="${proj.link}" target="_blank" class="btn">🔗 Ver Projeto</a>
                 `;
                 container.appendChild(card);
             });

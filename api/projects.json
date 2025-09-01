@@ -2,38 +2,54 @@
     {
         "title": "Pizzaria Bella Massa",
         "description": "Cardápio digital interativo com integração ao WhatsApp para pedidos rápidos. Layout atraente, ideal para delivery.",
-        "image": "img/pizzaria.png"
+        "image": "img/pizzaria.png",
+         "link": "https://samuellsf.github.io/site-Pizzaria/"
+
     },
     {
         "title": "Barbearia Barber Brothers",
         "description": "Site moderno com galeria de cortes, promoções e agendamento fácil pelo celular. Design responsivo e direto.",
-        "image": "img/Barbearia.png"
+        "image": "img/Barbearia.png",
+        "link": "https://samuellsf.github.io/Barber_Brothers/"
     },
     {
         "title": "Catálogo Pokémon",
         "description": "Página responsiva com listagem de personagens, filtros por tipo e visual interativo. Ideal como vitrine de produtos ou coleções.",
-        "image": "img/listagem-pokmon.png"
+        "image": "img/listagem-pokmon.png",
+    "link": "https://samuellsf.github.io/projeto-listagem-pokemon/"
     },
     {
         "title": "Portal One Piece",
         "description": "Listagem temática com imagens, episódios e descrição dos personagens. Ótimo para fãs ou como exemplo de catálogo visual.",
-        "image": "img/Projeto-one-piece.png"
+        "image": "img/Projeto-one-piece.png",
+    "link": "https://samuellsf.github.io/PROJETO-ONE-PIECE/"
     },
     {
         "title": "X-Men Universe",
         "description": "Interface leve e responsiva com listagem de personagens e dados detalhados. Visual moderno com estilo HQ.",
-        "image": "img/x-men.png"
+        "image": "img/x-men.png",
+     "link": "https://samuellsf.github.io/X-MEN-MAIN/"
+        
     },
 
     {
     "title": "Lojinha Virtual Express",
-    "description": "Mini e-commerce com exibição de produtos, botões para comprar direto pelo WhatsApp e links para Instagram e Facebook. Ideal para pequenos negócios.",
-    "image": "img/Lojinha Virtual.png"
+    "description": "Mini e-commerce com exibição de produtos, botões para comprar direto pelo WhatsApp e links para Instagram e Facebook. Ideal para pequenos negócios. Obs: Projeto em desenvolvimento.",
+    "image": "img/Lojinha Virtual.png",
+    "link": "https://samuellsf.github.io/lojinha-virtual/"
+},
+
+{
+  "title": "Convite virtual de aniversário",
+    "description": "Celebre com estilo e praticidade! Este convite digital é uma forma moderna e encantadora de reunir amigos e familiares. Com visual personalizado, informações completas sobre data, horário e local, além de botões para confirmar presença e links para redes sociais, ele torna a organização da festa muito mais fácil e divertida..",
+    "image": "img/convite.png",
+    "link": "https://samuellsf.github.io/convite-virtual/"
 },
 
     {
         "title": "Sistema de Gestão Escolar",
-        "description": "Plataforma institucional com páginas protegidas por login, espaço para professores, alunos e comunicados escolares.",
-        "image": "img/Gestão Escolar.png"
+        "description": "Plataforma institucional com páginas protegidas por login, espaço para professores, alunos e comunicados escolares. Obs: Projeto em desenvolvimento.",
+        "image": "img/Gestão Escolar.png",
+    "link": "https://samuellsf.github.io/Gest-o-Escolar/"
     }
 ]
